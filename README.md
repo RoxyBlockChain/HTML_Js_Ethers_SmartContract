@@ -27,7 +27,7 @@ npx hardhat node
 ```
 Run script --> to deploy smart Contract on local running Node
 for that --> 1st configure Networks ChainId RPC URL in hardhat.config.js properly
-             2nd set Smart Contract, Deploy with the help of Ethers Harhat properly
+             2nd set Smart Contract, Deploy with the help of Ethers Harhat properly in deploy.js 
 
 ```shell
 npx hardhat run scripts/deploy.js
